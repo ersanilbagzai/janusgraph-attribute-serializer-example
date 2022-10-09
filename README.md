@@ -1,1 +1,0 @@
-# janusgraph-attribute-serializer-example
